@@ -6,4 +6,3 @@
 0.0.0.0 01mspmd5yalky8.com
 0.0.0.0 0byv9mgbn0.com
 0.0.0.0 ns6.0pendns.org
-0.0.0.0 dns.0pengl.com
